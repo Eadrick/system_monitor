@@ -76,14 +76,6 @@ python main.py --refresh 1.5
 └──────────┴───────────────┘
 ```
 
-## Katkıda Bulunma
-
-1. Bu depoyu fork edin
-2. Yeni bir branch oluşturun (`git checkout -b yeni-ozellik`)
-3. Değişikliklerinizi commit edin (`git commit -am 'Yeni özellik eklendi'`)
-4. Branch'inizi push edin (`git push origin yeni-ozellik`)
-5. Pull Request oluşturun
-
 ## Lisans
 
 Bu proje MIT lisansı altında lisanslanmıştır. Detaylar için [LICENSE](LICENSE) dosyasına bakın.
