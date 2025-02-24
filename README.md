@@ -104,4 +104,4 @@ Yaygın sorunlar ve çözümleri:
 ## İletişim
 
 Sorularınız veya önerileriniz için:
-- GitHub @Eadrick
+- GitHub: [@Eadrick](https://github.com/Eadrick)
