@@ -10,10 +10,10 @@ Modern bir sistem izleme ve kaynak optimizasyon aracı. Gerçek zamanlı olarak 
 - ✅ Ağ bandgenişliği izleme
 - ✅ En çok kaynak tüketen süreçlerin tespiti
 - ✅ Renkli ve interaktif terminal arayüzü
-- 🚧 Sistem temizleme ve optimizasyon
-- 🚧 Başlangıç programları yönetimi
-- 🚧 Zamanlanmış görevler
-- 🚧 Performans raporları ve öneriler
+- ❌ Sistem temizleme ve optimizasyon
+- ❌ Başlangıç programları yönetimi
+- ❌ Zamanlanmış görevler
+- ❌ Performans raporları ve öneriler
 
 ## Gereksinimler
 
