@@ -104,4 +104,4 @@ Yaygın sorunlar ve çözümleri:
 ## İletişim
 
 Sorularınız veya önerileriniz için:
-- Discord: [@Discord](https://discord.gg/XSswJv4a3g)
+- Discord: [Discord](https://discord.gg/XSswJv4a3g)
